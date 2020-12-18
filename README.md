@@ -4,9 +4,9 @@ Benck Budget is a convenient app, which allows users to track their montly incom
 
 # Project Links
 
-- [GitHub Repo](https://github.com/zb45659/Brew-App)
-- [Deployed Site via Heroku](https://brew-app-az.herokuapp.com/)
-- [Brewery API database](https://www.openbrewerydb.org/)
+- [GitHub Repo](https://github.com/abenck17/ab_budget-express-api-backend)
+- [Deployed Site via Heroku] HAVING ISSUES (https://brew-app-az.herokuapp.com/)
+
 
 # Gettin Started 
 
