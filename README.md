@@ -29,6 +29,32 @@ Benck Budget is a convenient app, which allows users to track their montly incom
 - React Router was used to handle multiple views, including the Homepage.js, App.js, Brewery.js, and MapContainer.js.
 - This app communicates with the API and renders the UI accordingly with the information received.
 
+# Postman Routes
+
+## Auth
+ - Signup localhost:3000/api/auth/signup (POST)
+ - Login localhost:3000/api/auth/login (POST)
+ 
+ ## User 
+ - Get Profile localhost:3000/api/users/profile/:id (GET)
+ - Get all users localhost:3000/api/users/ (GET)
+ - Update a profile localhost:3000/api/users/:id/ (PUT)
+ - Delete user localhost:3000/api/users/:id/ (DEL)
+ 
+ ## user_income 
+ - Get user_income profile localhost:3000/api/user_incomes/profile/:id (GET)
+ - Get all user_incomes localhost:3000/api/user_incomes/ (GET)
+ - Create new user_income localhost:3000/api/user_incomes (POST)
+ - Udate user_income localhost:3000/api/user_incomes/:id (PUT)
+ - Delete user_income localhost:3000/api/user_incomes/:id (DEL)
+ 
+  ## user_expense
+ - Get user_expense profile localhost:3000/api/user_expenses/profile/:id (GET)
+ - Get all user_expenses localhost:3000/api/user_expenses/ (GET)
+ - Create new user_expense localhost:3000/api/user_expenses (POST)
+ - Udate user_expense localhost:3000/api/user_expenses/:id (PUT)
+ - Delete user_expense localhost:3000/api/user_expenses/:id (DEL)
+
 
 # Technology Used
 
