@@ -1,4 +1,4 @@
-# Benck Budget - front END 
+# Benck Budget - back END 
 
 Benck Budget is a convenient app, which allows users to track their montly incomes and montly expeses, to understand where their financial budget lies. 
 
