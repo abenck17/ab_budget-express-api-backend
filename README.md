@@ -12,8 +12,6 @@ Benck Budget is a convenient app, which allows users to track their montly incom
 
 - All planning material including how the project was mapped out can be located inside the /planning directory.
 
-[ERD](AB_Budget_ERD.jpg)
-
 # Requirements
 
 ## Technical Requirements
